@@ -86,8 +86,9 @@ Prints the final values of m and b (slope and intercept)
 Plots the original data as black dots of judgment
 
 Draws a red regression line that hopefully makes you feel smart
-
+```python
 plt.scatter(x, y)  # Real-life chaos
 plt.plot(x, predicted_y)  # Our mathematical best guess
-If it looks like it fits? Congrats u just leanrt the concept behind linear regression.
+```
+If it looks like it fits? Congrats and there u just leanrt the concept behind linear regression.
 

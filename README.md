@@ -64,4 +64,28 @@ Clone the repo and run the scripts like this:
 git clone https://github.com/Namitha-anna-koshy/scratch-learn.git
 cd scratch-learn
 python Linear_regression.py
+```
+Or open the `.ipynb` files if you're a Jupyter Notebook person (aka normal).
 
+---
+
+## 🧹 To Do (aka stuff I’ll probably forget I said I’d do)
+
+- [ ] Add more ML stuff  
+- [ ] Pretend this is educational  
+- [ ] Actually learn something new??  
+
+---
+
+## 🧊 Final Words
+
+If this somehow helps you understand ML better... seek help.  
+And maybe consider using `scikit-learn` like a functioning adult.
+
+But hey — **thanks for being here. You're part of the chaos now 💖**
+
+---
+
+## ✨ Author
+
+Made with spite, coffee, and mild depression by **Nami**

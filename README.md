@@ -25,7 +25,7 @@ Because who needs `scikit-learn` when you can have an existential crisis instead
 | Algorithm              | Status       |
 |------------------------|--------------|
 | Linear Regression      | ✅ crying complete |
-| Logistic Regression    | 🔜 pain pending |
+| Logistic Regression    | Done and dusted out of this world✨ |
 | K-Means Clustering     | 🔜 chaos loading |
 | Decision Trees         | 🔜 nope not yet |
 | Neural Networks (??)   | 🚫 lol good joke |
@@ -47,12 +47,6 @@ Feel free to look around, steal code, cry with me, or silently judge me — I we
 This isn’t a tutorial. It’s more of a "watch-me-struggle" diary.
 
 **Please don’t judge too hard. I already did that myself.**
-
----
-
-##  Motivation?
-
-No. Just streaks. I wanted green squares on GitHub. That’s it. That’s the tweet.
 
 ---
 

@@ -1,4 +1,4 @@
-## Theory Behind the Code (aka what I told myself I understood)
+## Theory Behind the Code 
 
 This project builds a **Linear Regression model** using **Gradient Descent**, from scratch.  
 
@@ -43,7 +43,7 @@ These tell us:
 
 ---
 
-### 🔁 Gradient Descent Update Rule (A.K.A. How We Learn™)
+###  Gradient Descent Update Rule 
 
 We use those derivatives to slowly nudge our `m` and `b` in the right direction:
 
@@ -57,7 +57,7 @@ Do this for a bunch of iterations, and the line becomes *slightly less garbage*.
 
 ---
 
-## 📜 What the Code’s Doing (Yes, It's Alive)
+## 📜 What the Code’s Doing 
 
 ```python
 x = [...]  # The x-values (inputs, or "what we control")
@@ -78,7 +78,7 @@ for i in range(epochs):
 Inside gradient_descent, we calculate our slopes of despair (gradients),
 update m and b, and pray we’re closer to the correct line.
 ```
-### Final Output (Proof of Pain)
+### Final Output 
 After training, the script:
 
 Prints the final values of m and b (slope and intercept)

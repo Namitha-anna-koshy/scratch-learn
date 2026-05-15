@@ -1,7 +1,3 @@
-from pathlib import Path
-
-content = """# Logistic Regression from Scratch using Gradient Descent
-
 ## Overview
 
 This project implements **Logistic Regression from scratch using Gradient Descent**, without relying on machine learning libraries such as Scikit-learn.
